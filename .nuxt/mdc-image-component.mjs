@@ -1,0 +1,1 @@
+export { default } from "/Users/cmorrow/_projects/nuxt4-azure/node_modules/@nuxt/image/dist/runtime/components/NuxtImg.vue"
