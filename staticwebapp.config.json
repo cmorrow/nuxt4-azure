@@ -1,0 +1,16 @@
+{
+  "buildSkipDetection": false,
+  "routes": [],
+  "navigationFallback": {
+    "rewrite": "404.html",
+    "exclude": [
+      "*.{css,scss,gif,ico,jpg,jpeg,js,png,svg,webp,woff,woff2}"
+    ]
+  },
+  "platformErrorOverrides": [],
+  "msSidecar": {
+    "env": {
+      "NODE_VERSION": "24"
+    }
+  }
+}
